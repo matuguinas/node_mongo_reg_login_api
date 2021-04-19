@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb+srv://ghostman3:ghostman3@cluster0.txnil.mongodb.net/andrade-node-api?retryWrites=true&w=majority",
+    "secret": "s3kr3t0"
+}
